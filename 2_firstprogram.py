@@ -12,4 +12,4 @@ multiple lines''')
 print the statement in python 3.x'''
 
 
-'''Thanking you for your visit'''
+print('Thanking you for your visit')
